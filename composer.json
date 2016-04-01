@@ -1,0 +1,15 @@
+{
+    "name": "aadmathijssen/test",
+    "description": "Test module for testing Composer dependencies",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aad Mathijssen",
+            "email": "aad.mathijssen@isaac.nl",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
