@@ -3,6 +3,6 @@ class FooBar
 {
     public function test() 
     {
-        echo 'foo bar';
+        echo 'foobar';
     }
 }
